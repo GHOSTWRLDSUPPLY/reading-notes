@@ -40,5 +40,6 @@ Examples of Effective Types of Leadership Style Traits
 # Table of Contents 
 1. [April 12 Reading Notes Linux](April12Class02.md)
 
+2. [April 16 Class 06 Notes](Class06.md)
 
 
