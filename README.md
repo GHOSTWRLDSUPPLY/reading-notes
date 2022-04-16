@@ -37,7 +37,8 @@ Examples of Effective Types of Leadership Style Traits
 2. Collaborative projects are often required in the IT industry, and leaderships skills are highly sought after
 3. Teams cannot succeed under the leadership of those that fail to utilize the appropriate leadership style fitted to the organization
 
-
+# Table of Contents 
+1. [April 12 Reading Notes Linux](April12Class02.md)
 
 
 
